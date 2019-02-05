@@ -1,6 +1,6 @@
 # DBS Intro to Machine Learning
 
-Hello class!
+Hello class!!
 
 Class slack: https://dbs-ml.slack.com
 
